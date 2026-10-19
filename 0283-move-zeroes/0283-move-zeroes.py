@@ -7,7 +7,7 @@ class Solution:
         i=0
         while i<n and nums[i]!=0:
             
-             i+=1
+            i+=1
         if i==n:
             return
         j=i+1
