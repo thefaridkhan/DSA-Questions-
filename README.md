@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0977-squares-of-a-sorted-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thefaridkhan/DSA-Questions-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -29,10 +30,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0016-3sum-closest) |
 | [0075-sort-colors](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0075-sort-colors) |
+| [0268-missing-number](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0268-missing-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0977-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0268-missing-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thefaridkhan/DSA-Questions-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
 |  |
@@ -43,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0268-missing-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -51,4 +55,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
