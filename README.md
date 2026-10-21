@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0053-maximum-subarray](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0209-minimum-size-subarray-sum) |
@@ -63,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0268-missing-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0053-maximum-subarray) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
