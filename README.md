@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0189-rotate-array) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0268-missing-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thefaridkhan/DSA-Questions-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/thefaridkhan/DSA-Questions-/tree/master/2149-rearrange-array-elements-by-sign) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
