@@ -10,6 +10,7 @@ class Solution:
             if nums[low]==nums[mid]==nums[high]:
                 low+=1
                 high-=1
+                continue
             elif nums[mid]<= nums[high]:
                 if nums[mid] <=target <=nums[high]:
                     low=mid+1
