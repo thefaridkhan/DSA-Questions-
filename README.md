@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0283-move-zeroes) |
 | [0876-middle-of-the-linked-list](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0876-middle-of-the-linked-list) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0073-set-matrix-zeroes) |
+| [0141-linked-list-cycle](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0141-linked-list-cycle) |
 | [0268-missing-number](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0268-missing-number) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/thefaridkhan/DSA-Questions-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Sliding Window
@@ -104,10 +106,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0206-reverse-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
