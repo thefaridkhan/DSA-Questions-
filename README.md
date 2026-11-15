@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0268-missing-number) |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thefaridkhan/DSA-Questions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -123,4 +124,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thefaridkhan/DSA-Questions-/tree/master/0142-linked-list-cycle-ii) |
+## String
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thefaridkhan/DSA-Questions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
+## Backtracking
+|  |
+| ------- |
+| [3211-generate-binary-strings-without-adjacent-zeros](https://github.com/thefaridkhan/DSA-Questions-/tree/master/3211-generate-binary-strings-without-adjacent-zeros) |
 <!---LeetCode Topics End-->
